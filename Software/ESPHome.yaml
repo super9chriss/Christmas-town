@@ -1,0 +1,44 @@
+esphome:
+  name: christmas-village-controller
+  friendly_name: Christmas Village Controller
+
+esp32:
+  board: esp32-c6-devkitm-1 
+  variant: esp32c6
+  framework:
+    type: esp-idf
+    version: 5.3.1 
+
+
+wifi:
+  ssid: "name"
+  password: "ww"
+
+api:
+ota:
+  - platform: esphome
+
+switch:
+  - platform: gpio
+    pin: GPIO5
+    name: "12V house"
+    id: house_12v
+    restore_mode: RESTORE_DEFAULT_OFF
+
+  - platform: gpio
+    pin: GPIO1
+    name: "street light (3V & 4.5V)"
+    id: lanterns_mix
+    restore_mode: RESTORE_DEFAULT_OFF
+
+  - platform: gpio
+    pin: GPIO3
+    name: "windmill (4.5V)"
+    id: windmill
+    restore_mode: RESTORE_DEFAULT_OFF
+
+  - platform: gpio
+    pin: GPIO4
+    name: "3V house"
+    id: house_3v
+    restore_mode: RESTORE_DEFAULT_OFF
