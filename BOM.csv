@@ -1,0 +1,20 @@
+Description,quantity,price,link,,,,,,,,,,
+LCSC parts,1,3.71 + 3 (handeling),see  under here,,,,,,,,,,
+esp32-c6,1,5.99,https://nl.aliexpress.com/item/1005007349377720.html?spm=a2g0o.cart.0.0.756f61d70KYxyk&mp=1&pdp_npi=6%40dis%21EUR%21EUR%205.99%21EUR%205.99%21%21EUR%205.99%21%21%21%40210388c917681541282606592e76f4%2112000040369011650%21ct%21NL%21-1%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D&gatewayAdapt=glo2nld,,,,,,,,,,
+12V adapter,1,2.62,http://nl.aliexpress.com/item/1005007264933490.html?spm=a2g0o.cart.0.0.756f61d70KYxyk&mp=1&pdp_npi=6%40dis%21EUR%21EUR%202.62%21EUR%202.62%21%21EUR%202.62%21%21%21%40210388c917681541282606592e76f4%2112000039998101054%21ct%21NL%21-1%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D&gatewayAdapt=glo2nld,,,,,,,,,,
+PCB,1,3.01,https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010,,,,,,,,,,
+,total:,? 18.33 ÷ $22,,,,,,,,,,,
+,,,,,,,,,,,,,
+LCSC parts:,,,,,,,,,,,,,
+Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price(?),Extended Price(?),Product Link
+1,C85864,GCM188R71H104KA57D,muRata,603,"C3,C6",100nF ñ10% 50V Ceramic Capacitor X7R 0603,yes,50,50,50,0.0096,0.48,https://www.lcsc.com/product-detail/C85864.html
+2,C55722,0603CG101F500NT,FH,603,"C4,C7",100pF ñ1% 50V Ceramic Capacitor C0G 0603,yes,50,50,50,0.0089,0.45,https://www.lcsc.com/product-detail/C55722.html
+3,C95204,RT0603BRD0710KL,YAGEO,603,"R2,R4",100mW 10kê 75V Thin Film Resistor ñ25ppm/? ñ0.1% 0603 Chip Resistor - Surface Mount RoHS,yes,20,20,20,0.0188,0.38,https://www.lcsc.com/product-detail/C95204.html
+4,C70225,0603X106K160NT,FH,603,"C1,C5",10uF ñ10% 16V Ceramic Capacitor X5R 0603,yes,10,10,10,0.0196,0.2,https://www.lcsc.com/product-detail/C70225.html
+5,C142104,LVS808040-100M-N,Chilisin,"SMD,8x8mm","L1,L2","3.42A 10uH ñ20% 49.4mê Magnetic Shielded Inductor SMD,8x8mm Fixed Inductors RoHS",yes,5,5,5,0.0997,0.5,https://www.lcsc.com/product-detail/C142104.html
+6,C21190,0603WAF1001T5E,UNI-ROYAL,603,"R5,R6,R7,R8",1kê ñ1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0011,0.11,https://www.lcsc.com/product-detail/C21190.html
+7,C60077,0603X226M100NT,FH,603,"C2,C2.1,C2.2,C8",22uF ñ20% 10V Ceramic Capacitor X5R 0603,yes,10,10,10,0.0143,0.14,https://www.lcsc.com/product-detail/C60077.html
+8,C22967,0603WAF2702T5E,UNI-ROYAL,603,R3,27kê ñ1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0012,0.12,https://www.lcsc.com/product-detail/C22967.html
+9,C23196,0603WAF5102T5E,UNI-ROYAL,603,R1,51kê ñ1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0011,0.11,https://www.lcsc.com/product-detail/C23196.html
+10,C2071868,AP63200WU-7,DIODES,TSOT-23-6,"U1,U2",500kHz Buck Adjustable 2A TSOT-23-6 Voltage Regulators - DC DC Switching Regulators RoHS,yes,2,1,1,0.3471,0.69,https://www.lcsc.com/product-detail/C2071868.html
+11,C118536,2N2222A,ST(Semtech),TO-92,"Q1,Q2,Q3,Q4",Bipolar (BJT) Transistor NPN 40V 600mA 250MHz 625mW Through Hole TO-92,yes,20,20,20,0.0264,0.53,https://www.lcsc.com/product-detail/C118536.html
